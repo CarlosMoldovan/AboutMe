@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I am a passionate software developer currently stu
 
 My GitHub repositories showcase a variety of projects, including web applications, phone applications, c++/java projects for university, reflecting my commitment to continuous learning and improvement.
 ## Skills & Technologies
-- **Languages**: JavaScript, C++, Java, HTML, CSS
-- **Frameworks/Libraries**: React, React Native, Node.js
+- **Languages**: JavaScript, C++, Java, HTML, CSS, Python
+- **Frameworks/Libraries**: React, React Native
 - **Tools**: Git, GitHub, Visual Studio Code, Android Studio
 - **Other**: Agile methodologies, Test-Driven Development (TDD), RESTful APIs
 
